@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  app:
+    build: .
+    container_name: reading_support_app
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./src/utils/data:/app/src/utils/data
+      - ./models:/app/models
+      - ./data:/app/data
+      - ./src:/app/src
+    environment:
+      - STREAMLIT_SERVER_RUN_ON_SAVE=true
+    command: streamlit run src/app/streamlit_app.py \
+             --server.port=8501 \
+             --server.address=0.0.0.0 \
+             --server.fileWatcherType=watchdog
