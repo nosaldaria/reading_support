@@ -1,0 +1,5819 @@
+{
+  "речення": {
+    "simple": "прийом",
+    "confidence": 0.0,
+    "semantic_similarity": 0.784,
+    "quality_score": 0.0,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "прийом"
+      ],
+      "case": [
+        "прийом"
+      ],
+      "gender": [
+        "прийом"
+      ],
+      "number": [
+        "прийом"
+      ]
+    }
+  },
+  "перепикити": {
+    "simple": "почнути",
+    "confidence": 0.002,
+    "semantic_similarity": 0.876,
+    "quality_score": 0.002,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "почнути"
+      ],
+      "verbform": [
+        "почнути"
+      ]
+    }
+  },
+  "текст": {
+    "simple": "бита",
+    "confidence": 0.001,
+    "semantic_similarity": 0.685,
+    "quality_score": 0.001,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "бита"
+      ],
+      "case": [
+        "бита"
+      ],
+      "gender": [
+        "бита"
+      ],
+      "number": [
+        "бита"
+      ]
+    }
+  },
+  "перефразувати": {
+    "simple": "домовитися",
+    "confidence": 0.002,
+    "semantic_similarity": 0.744,
+    "quality_score": 0.001,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "домовитися"
+      ],
+      "verbform": [
+        "домовитися"
+      ]
+    }
+  },
+  "зробити": {
+    "simple": "зняти",
+    "confidence": 0.002,
+    "semantic_similarity": 0.768,
+    "quality_score": 0.002,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "зняти"
+      ],
+      "verbform": [
+        "зняти"
+      ]
+    }
+  },
+  "написати": {
+    "simple": "містити",
+    "confidence": 0.003,
+    "semantic_similarity": 0.804,
+    "quality_score": 0.002,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "містити"
+      ],
+      "verbform": [
+        "містити"
+      ]
+    }
+  },
+  "спростити": {
+    "simple": "вживати",
+    "confidence": 0.003,
+    "semantic_similarity": 0.779,
+    "quality_score": 0.002,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "вживати"
+      ],
+      "verbform": [
+        "вживати"
+      ]
+    }
+  },
+  "розповсюдження": {
+    "simple": "поширення",
+    "confidence": 0.789,
+    "semantic_similarity": 0.956,
+    "quality_score": 0.754,
+    "count": 15,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "поширення"
+      ],
+      "case": [
+        "поширення"
+      ],
+      "gender": [
+        "поширення"
+      ],
+      "number": [
+        "поширення"
+      ]
+    }
+  },
+  "виправати": {
+    "simple": "вдатися",
+    "confidence": 0.002,
+    "semantic_similarity": 0.709,
+    "quality_score": 0.001,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "вдатися"
+      ],
+      "verbform": [
+        "вдатися"
+      ]
+    }
+  },
+  "використовуватися": {
+    "simple": "використовувати",
+    "confidence": 0.181,
+    "semantic_similarity": 0.982,
+    "quality_score": 0.178,
+    "count": 13,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "використовувати"
+      ],
+      "verbform": [
+        "використовувати"
+      ]
+    }
+  },
+  "переформулювати": {
+    "simple": "набрати",
+    "confidence": 0.005,
+    "semantic_similarity": 0.707,
+    "quality_score": 0.004,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "набрати"
+      ],
+      "verbform": [
+        "набрати"
+      ]
+    }
+  },
+  "сказати": {
+    "simple": "думати",
+    "confidence": 0.007,
+    "semantic_similarity": 0.947,
+    "quality_score": 0.007,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "думати"
+      ],
+      "verbform": [
+        "думати"
+      ]
+    }
+  },
+  "простіший": {
+    "simple": "корисний",
+    "confidence": 0.008,
+    "semantic_similarity": 0.708,
+    "quality_score": 0.006,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "корисний"
+      ],
+      "degree": [
+        "корисний"
+      ],
+      "gender": [
+        "корисний"
+      ],
+      "number": [
+        "корисний"
+      ]
+    }
+  },
+  "помилковий": {
+    "simple": "хибний",
+    "confidence": 0.625,
+    "semantic_similarity": 0.94,
+    "quality_score": 0.587,
+    "count": 10,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "хибний"
+      ],
+      "gender": [
+        "хибний"
+      ],
+      "number": [
+        "хибний"
+      ]
+    }
+  },
+  "використовувати": {
+    "simple": "вважати",
+    "confidence": 0.006,
+    "semantic_similarity": 0.687,
+    "quality_score": 0.004,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "вважати"
+      ],
+      "verbform": [
+        "вважати"
+      ]
+    }
+  },
+  "населення": {
+    "simple": "стан",
+    "confidence": 0.04,
+    "semantic_similarity": 0.662,
+    "quality_score": 0.026,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "стан"
+      ],
+      "case": [
+        "стан"
+      ],
+      "gender": [
+        "стан"
+      ],
+      "number": [
+        "стан"
+      ]
+    }
+  },
+  "пілата": {
+    "simple": "пилат",
+    "confidence": 0.4,
+    "semantic_similarity": 0.868,
+    "quality_score": 0.347,
+    "count": 8,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "пилат"
+      ],
+      "case": [
+        "пилат"
+      ],
+      "gender": [
+        "пилат"
+      ],
+      "number": [
+        "пилат"
+      ]
+    }
+  },
+  "процедура": {
+    "simple": "практик",
+    "confidence": 0.018,
+    "semantic_similarity": 0.736,
+    "quality_score": 0.013,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "практик"
+      ],
+      "case": [
+        "практик"
+      ],
+      "gender": [
+        "практик"
+      ],
+      "number": [
+        "практик"
+      ]
+    }
+  },
+  "змогти": {
+    "simple": "могти",
+    "confidence": 0.062,
+    "semantic_similarity": 0.882,
+    "quality_score": 0.055,
+    "count": 8,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "могти"
+      ],
+      "verbform": [
+        "могти"
+      ]
+    }
+  },
+  "знаходитися": {
+    "simple": "перебувати",
+    "confidence": 0.108,
+    "semantic_similarity": 0.819,
+    "quality_score": 0.088,
+    "count": 8,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "перебувати"
+      ],
+      "verbform": [
+        "перебувати"
+      ]
+    }
+  },
+  "доктор": {
+    "simple": "лікар",
+    "confidence": 0.421,
+    "semantic_similarity": 0.995,
+    "quality_score": 0.419,
+    "count": 8,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "лікар"
+      ],
+      "case": [
+        "лікар"
+      ],
+      "gender": [
+        "лікар"
+      ],
+      "number": [
+        "лікар"
+      ]
+    }
+  },
+  "заявка": {
+    "simple": "запит",
+    "confidence": 0.135,
+    "semantic_similarity": 0.873,
+    "quality_score": 0.118,
+    "count": 7,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "запит"
+      ],
+      "case": [
+        "запит"
+      ],
+      "gender": [
+        "запит"
+      ],
+      "number": [
+        "запит"
+      ]
+    }
+  },
+  "додатковий": {
+    "simple": "подальший",
+    "confidence": 0.184,
+    "semantic_similarity": 0.912,
+    "quality_score": 0.168,
+    "count": 7,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "подальший"
+      ],
+      "gender": [
+        "подальший"
+      ],
+      "number": [
+        "подальший"
+      ]
+    }
+  },
+  "співробітник": {
+    "simple": "працівник",
+    "confidence": 0.212,
+    "semantic_similarity": 0.917,
+    "quality_score": 0.194,
+    "count": 7,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "працівник"
+      ],
+      "case": [
+        "працівник"
+      ],
+      "gender": [
+        "працівник"
+      ],
+      "number": [
+        "працівник"
+      ]
+    }
+  },
+  "говорити": {
+    "simple": "сказати",
+    "confidence": 0.04,
+    "semantic_similarity": 0.926,
+    "quality_score": 0.037,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "сказати"
+      ],
+      "verbform": [
+        "сказати"
+      ]
+    }
+  },
+  "величезний": {
+    "simple": "зроблений",
+    "confidence": 0.065,
+    "semantic_similarity": 0.677,
+    "quality_score": 0.044,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "зроблений"
+      ],
+      "case": [
+        "зроблений"
+      ],
+      "gender": [
+        "зроблений"
+      ],
+      "number": [
+        "зроблений"
+      ],
+      "verbform": [
+        "зроблений"
+      ],
+      "voice": [
+        "зроблений"
+      ]
+    }
+  },
+  "необхідність": {
+    "simple": "потреба",
+    "confidence": 0.136,
+    "semantic_similarity": 0.958,
+    "quality_score": 0.13,
+    "count": 6,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "потреба"
+      ],
+      "case": [
+        "потреба"
+      ],
+      "gender": [
+        "потреба"
+      ],
+      "number": [
+        "потреба"
+      ]
+    }
+  },
+  "шоколад": {
+    "simple": "десерт",
+    "confidence": 0.2,
+    "semantic_similarity": 0.751,
+    "quality_score": 0.15,
+    "count": 6,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "десерт"
+      ],
+      "case": [
+        "десерт"
+      ],
+      "gender": [
+        "десерт"
+      ],
+      "number": [
+        "десерт"
+      ]
+    }
+  },
+  "чоловік": {
+    "simple": "людина",
+    "confidence": 0.08,
+    "semantic_similarity": 0.939,
+    "quality_score": 0.075,
+    "count": 6,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "людина"
+      ],
+      "case": [
+        "людина"
+      ],
+      "gender": [
+        "людина"
+      ],
+      "number": [
+        "людина"
+      ]
+    }
+  },
+  "підприємство": {
+    "simple": "фірма",
+    "confidence": 0.022,
+    "semantic_similarity": 0.927,
+    "quality_score": 0.02,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "фірма"
+      ],
+      "case": [
+        "фірма"
+      ],
+      "gender": [
+        "фірма"
+      ],
+      "number": [
+        "фірма"
+      ]
+    }
+  },
+  "держава": {
+    "simple": "країна",
+    "confidence": 0.086,
+    "semantic_similarity": 0.81,
+    "quality_score": 0.07,
+    "count": 6,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "країна"
+      ],
+      "case": [
+        "країна"
+      ],
+      "gender": [
+        "країна"
+      ],
+      "number": [
+        "країна"
+      ]
+    }
+  },
+  "вважатися": {
+    "simple": "вважати",
+    "confidence": 0.2,
+    "semantic_similarity": 0.921,
+    "quality_score": 0.184,
+    "count": 6,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "вважати"
+      ],
+      "verbform": [
+        "вважати"
+      ]
+    }
+  },
+  "помилка": {
+    "simple": "сьюд",
+    "confidence": 0.006,
+    "semantic_similarity": 0.702,
+    "quality_score": 0.004,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "сьюд"
+      ],
+      "case": [
+        "сьюд"
+      ],
+      "gender": [
+        "сьюд"
+      ],
+      "number": [
+        "сьюд"
+      ]
+    }
+  },
+  "множина": {
+    "simple": "річ",
+    "confidence": 0.2,
+    "semantic_similarity": 0.839,
+    "quality_score": 0.168,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "річ"
+      ],
+      "case": [
+        "річ"
+      ],
+      "gender": [
+        "річ"
+      ],
+      "number": [
+        "річ"
+      ]
+    }
+  },
+  "вважати": {
+    "simple": "думати",
+    "confidence": 0.049,
+    "semantic_similarity": 0.804,
+    "quality_score": 0.039,
+    "count": 5,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "думати"
+      ],
+      "verbform": [
+        "думати"
+      ]
+    }
+  },
+  "лікування": {
+    "simple": "ліки",
+    "confidence": 0.048,
+    "semantic_similarity": 0.831,
+    "quality_score": 0.04,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "ліки"
+      ],
+      "case": [
+        "ліки"
+      ],
+      "number": [
+        "ліки"
+      ]
+    }
+  },
+  "побачити": {
+    "simple": "бачити",
+    "confidence": 0.053,
+    "semantic_similarity": 0.976,
+    "quality_score": 0.052,
+    "count": 5,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "бачити"
+      ],
+      "verbform": [
+        "бачити"
+      ]
+    }
+  },
+  "розпочати": {
+    "simple": "почати",
+    "confidence": 0.139,
+    "semantic_similarity": 0.993,
+    "quality_score": 0.138,
+    "count": 5,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "почати"
+      ],
+      "verbform": [
+        "почати"
+      ]
+    }
+  },
+  "підтримка": {
+    "simple": "допомога",
+    "confidence": 0.046,
+    "semantic_similarity": 0.765,
+    "quality_score": 0.035,
+    "count": 5,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "допомога"
+      ],
+      "case": [
+        "допомога"
+      ],
+      "gender": [
+        "допомога"
+      ],
+      "number": [
+        "допомога"
+      ]
+    }
+  },
+  "коледжа": {
+    "simple": "коледж",
+    "confidence": 0.217,
+    "semantic_similarity": 0.995,
+    "quality_score": 0.216,
+    "count": 5,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "коледж"
+      ],
+      "case": [
+        "коледж"
+      ],
+      "gender": [
+        "коледж"
+      ],
+      "number": [
+        "коледж"
+      ]
+    }
+  },
+  "відбуватися": {
+    "simple": "сказати",
+    "confidence": 0.026,
+    "semantic_similarity": 0.849,
+    "quality_score": 0.022,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "сказати"
+      ],
+      "verbform": [
+        "сказати"
+      ]
+    }
+  },
+  "корабель": {
+    "simple": "судно",
+    "confidence": 0.135,
+    "semantic_similarity": 0.98,
+    "quality_score": 0.132,
+    "count": 5,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "судно"
+      ],
+      "case": [
+        "судно"
+      ],
+      "gender": [
+        "судно"
+      ],
+      "number": [
+        "судно"
+      ]
+    }
+  },
+  "зрозуміти": {
+    "simple": "розуміти",
+    "confidence": 0.062,
+    "semantic_similarity": 0.995,
+    "quality_score": 0.062,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "розуміти"
+      ],
+      "verbform": [
+        "розуміти"
+      ]
+    }
+  },
+  "регіон": {
+    "simple": "місце",
+    "confidence": 0.049,
+    "semantic_similarity": 0.693,
+    "quality_score": 0.034,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "місце"
+      ],
+      "case": [
+        "місце"
+      ],
+      "gender": [
+        "місце"
+      ],
+      "number": [
+        "місце"
+      ]
+    }
+  },
+  "призвести": {
+    "simple": "отримати",
+    "confidence": 0.05,
+    "semantic_similarity": 0.803,
+    "quality_score": 0.04,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "отримати"
+      ],
+      "verbform": [
+        "отримати"
+      ]
+    }
+  },
+  "включати": {
+    "simple": "містити",
+    "confidence": 0.058,
+    "semantic_similarity": 0.89,
+    "quality_score": 0.052,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "містити"
+      ],
+      "verbform": [
+        "містити"
+      ]
+    }
+  },
+  "противний": {
+    "simple": "гидкий",
+    "confidence": 0.8,
+    "semantic_similarity": 0.854,
+    "quality_score": 0.683,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "гидкий"
+      ],
+      "degree": [
+        "гидкий"
+      ],
+      "gender": [
+        "гидкий"
+      ],
+      "number": [
+        "гидкий"
+      ]
+    }
+  },
+  "вартість": {
+    "simple": "витрата",
+    "confidence": 0.154,
+    "semantic_similarity": 0.874,
+    "quality_score": 0.135,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "витрата"
+      ],
+      "case": [
+        "витрата"
+      ],
+      "gender": [
+        "витрата"
+      ],
+      "number": [
+        "витрата"
+      ]
+    }
+  },
+  "останній": {
+    "simple": "минулий",
+    "confidence": 0.095,
+    "semantic_similarity": 0.706,
+    "quality_score": 0.067,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "минулий"
+      ],
+      "gender": [
+        "минулий"
+      ],
+      "number": [
+        "минулий"
+      ]
+    }
+  },
+  "зустрічатися": {
+    "simple": "траплятися",
+    "confidence": 0.222,
+    "semantic_similarity": 0.671,
+    "quality_score": 0.149,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "траплятися"
+      ],
+      "verbform": [
+        "траплятися"
+      ]
+    }
+  },
+  "запитання": {
+    "simple": "питання",
+    "confidence": 0.091,
+    "semantic_similarity": 0.986,
+    "quality_score": 0.09,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "питання"
+      ],
+      "case": [
+        "питання"
+      ],
+      "gender": [
+        "питання"
+      ],
+      "number": [
+        "питання"
+      ]
+    }
+  },
+  "впровадження": {
+    "simple": "реалізація",
+    "confidence": 0.083,
+    "semantic_similarity": 0.881,
+    "quality_score": 0.073,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "реалізація"
+      ],
+      "case": [
+        "реалізація"
+      ],
+      "gender": [
+        "реалізація"
+      ],
+      "number": [
+        "реалізація"
+      ]
+    }
+  },
+  "шумихина": {
+    "simple": "шумихін",
+    "confidence": 0.8,
+    "semantic_similarity": 0.932,
+    "quality_score": 0.746,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "шумихін"
+      ],
+      "case": [
+        "шумихін"
+      ],
+      "gender": [
+        "шумихін"
+      ],
+      "number": [
+        "шумихін"
+      ]
+    }
+  },
+  "перефразований": {
+    "simple": "первинний",
+    "confidence": 0.017,
+    "semantic_similarity": 0.778,
+    "quality_score": 0.013,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "первинний"
+      ],
+      "gender": [
+        "первинний"
+      ],
+      "number": [
+        "первинний"
+      ]
+    }
+  },
+  "номінал": {
+    "simple": "літи",
+    "confidence": 0.5,
+    "semantic_similarity": 0.723,
+    "quality_score": 0.361,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "літи"
+      ],
+      "case": [
+        "літи"
+      ],
+      "gender": [
+        "літи"
+      ],
+      "number": [
+        "літи"
+      ]
+    }
+  },
+  "сентай": {
+    "simple": "літи",
+    "confidence": 0.5,
+    "semantic_similarity": 0.729,
+    "quality_score": 0.364,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "літи"
+      ],
+      "case": [
+        "літи"
+      ],
+      "gender": [
+        "літи"
+      ],
+      "number": [
+        "літи"
+      ]
+    }
+  },
+  "розпочатися": {
+    "simple": "початися",
+    "confidence": 0.286,
+    "semantic_similarity": 0.975,
+    "quality_score": 0.279,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "початися"
+      ],
+      "verbform": [
+        "початися"
+      ]
+    }
+  },
+  "воллес": {
+    "simple": "земля",
+    "confidence": 0.5,
+    "semantic_similarity": 0.656,
+    "quality_score": 0.328,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "земля"
+      ],
+      "case": [
+        "земля"
+      ],
+      "gender": [
+        "земля"
+      ],
+      "number": [
+        "земля"
+      ]
+    }
+  },
+  "відповідний": {
+    "simple": "важливий",
+    "confidence": 0.021,
+    "semantic_similarity": 0.837,
+    "quality_score": 0.018,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "важливий"
+      ],
+      "degree": [
+        "важливий"
+      ],
+      "gender": [
+        "важливий"
+      ],
+      "number": [
+        "важливий"
+      ]
+    }
+  },
+  "спостерігати": {
+    "simple": "дивитися",
+    "confidence": 0.121,
+    "semantic_similarity": 0.948,
+    "quality_score": 0.115,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "дивитися"
+      ],
+      "verbform": [
+        "дивитися"
+      ]
+    }
+  },
+  "буфетчик": {
+    "simple": "двозуб",
+    "confidence": 0.222,
+    "semantic_similarity": 0.654,
+    "quality_score": 0.145,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "двозуб"
+      ],
+      "case": [
+        "двозуб"
+      ],
+      "gender": [
+        "двозуб"
+      ],
+      "number": [
+        "двозуб"
+      ]
+    }
+  },
+  "глінзе": {
+    "simple": "доссе",
+    "confidence": 0.25,
+    "semantic_similarity": 0.88,
+    "quality_score": 0.22,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "доссе"
+      ],
+      "case": [
+        "доссе"
+      ],
+      "gender": [
+        "доссе"
+      ],
+      "number": [
+        "доссе"
+      ],
+      "prontype": [
+        "доссе"
+      ]
+    }
+  },
+  "термін": {
+    "simple": "слово",
+    "confidence": 0.046,
+    "semantic_similarity": 0.956,
+    "quality_score": 0.044,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "слово"
+      ],
+      "case": [
+        "слово"
+      ],
+      "gender": [
+        "слово"
+      ],
+      "number": [
+        "слово"
+      ]
+    }
+  },
+  "іскрина": {
+    "simple": "іскра",
+    "confidence": 1.0,
+    "semantic_similarity": 0.923,
+    "quality_score": 0.923,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "іскра"
+      ],
+      "case": [
+        "іскра"
+      ],
+      "gender": [
+        "іскра"
+      ],
+      "number": [
+        "іскра"
+      ]
+    }
+  },
+  "прохання": {
+    "simple": "надання",
+    "confidence": 0.111,
+    "semantic_similarity": 0.745,
+    "quality_score": 0.083,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "надання"
+      ],
+      "case": [
+        "надання"
+      ],
+      "gender": [
+        "надання"
+      ],
+      "number": [
+        "надання"
+      ]
+    }
+  },
+  "спільнота": {
+    "simple": "громада",
+    "confidence": 0.182,
+    "semantic_similarity": 0.987,
+    "quality_score": 0.18,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "громада"
+      ],
+      "case": [
+        "громада"
+      ],
+      "gender": [
+        "громада"
+      ],
+      "number": [
+        "громада"
+      ]
+    }
+  },
+  "клітинка": {
+    "simple": "комірка",
+    "confidence": 0.667,
+    "semantic_similarity": 0.656,
+    "quality_score": 0.438,
+    "count": 4,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "комірка"
+      ],
+      "case": [
+        "комірка"
+      ],
+      "gender": [
+        "комірка"
+      ],
+      "number": [
+        "комірка"
+      ]
+    }
+  },
+  "серйозний": {
+    "simple": "великий",
+    "confidence": 0.158,
+    "semantic_similarity": 0.715,
+    "quality_score": 0.113,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "великий"
+      ],
+      "degree": [
+        "великий"
+      ],
+      "gender": [
+        "великий"
+      ],
+      "number": [
+        "великий"
+      ]
+    }
+  },
+  "перефраз": {
+    "simple": "мета",
+    "confidence": 0.006,
+    "semantic_similarity": 0.733,
+    "quality_score": 0.004,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "мета"
+      ],
+      "case": [
+        "мета"
+      ],
+      "gender": [
+        "мета"
+      ],
+      "number": [
+        "мета"
+      ]
+    }
+  },
+  "припускати": {
+    "simple": "думати",
+    "confidence": 0.13,
+    "semantic_similarity": 0.839,
+    "quality_score": 0.109,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "думати"
+      ],
+      "verbform": [
+        "думати"
+      ]
+    }
+  },
+  "використання": {
+    "simple": "людина",
+    "confidence": 0.017,
+    "semantic_similarity": 0.682,
+    "quality_score": 0.012,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "людина"
+      ],
+      "case": [
+        "людина"
+      ],
+      "gender": [
+        "людина"
+      ],
+      "number": [
+        "людина"
+      ]
+    }
+  },
+  "виконувати": {
+    "simple": "робити",
+    "confidence": 0.064,
+    "semantic_similarity": 0.947,
+    "quality_score": 0.061,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "робити"
+      ],
+      "verbform": [
+        "робити"
+      ]
+    }
+  },
+  "повернутися": {
+    "simple": "повернути",
+    "confidence": 0.04,
+    "semantic_similarity": 0.927,
+    "quality_score": 0.037,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "повернути"
+      ],
+      "verbform": [
+        "повернути"
+      ]
+    }
+  },
+  "допомагати": {
+    "simple": "допомогти",
+    "confidence": 0.13,
+    "semantic_similarity": 0.986,
+    "quality_score": 0.128,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "допомогти"
+      ],
+      "verbform": [
+        "допомогти"
+      ]
+    }
+  },
+  "претендувати": {
+    "simple": "заявляти",
+    "confidence": 0.429,
+    "semantic_similarity": 0.948,
+    "quality_score": 0.407,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "заявляти"
+      ],
+      "verbform": [
+        "заявляти"
+      ]
+    }
+  },
+  "продовжувати": {
+    "simple": "піти",
+    "confidence": 0.034,
+    "semantic_similarity": 0.721,
+    "quality_score": 0.025,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "піти"
+      ],
+      "verbform": [
+        "піти"
+      ]
+    }
+  },
+  "увійти": {
+    "simple": "зайти",
+    "confidence": 0.188,
+    "semantic_similarity": 0.945,
+    "quality_score": 0.178,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "зайти"
+      ],
+      "verbform": [
+        "зайти"
+      ]
+    }
+  },
+  "хороший": {
+    "simple": "гарний",
+    "confidence": 0.05,
+    "semantic_similarity": 0.846,
+    "quality_score": 0.042,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "гарний"
+      ],
+      "degree": [
+        "гарний"
+      ],
+      "gender": [
+        "гарний"
+      ],
+      "number": [
+        "гарний"
+      ]
+    }
+  },
+  "окремий": {
+    "simple": "різний",
+    "confidence": 0.103,
+    "semantic_similarity": 0.884,
+    "quality_score": 0.091,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "різний"
+      ],
+      "gender": [
+        "різний"
+      ],
+      "number": [
+        "різний"
+      ]
+    }
+  },
+  "пократи": {
+    "simple": "змогти",
+    "confidence": 0.012,
+    "semantic_similarity": 0.833,
+    "quality_score": 0.01,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "змогти"
+      ],
+      "verbform": [
+        "змогти"
+      ]
+    }
+  },
+  "частина": {
+    "simple": "склад",
+    "confidence": 0.015,
+    "semantic_similarity": 0.863,
+    "quality_score": 0.013,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "склад"
+      ],
+      "case": [
+        "склад"
+      ],
+      "gender": [
+        "склад"
+      ],
+      "number": [
+        "склад"
+      ]
+    }
+  },
+  "граматик": {
+    "simple": "нездар",
+    "confidence": 0.008,
+    "semantic_similarity": 0.689,
+    "quality_score": 0.006,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "нездар"
+      ],
+      "case": [
+        "нездар"
+      ],
+      "gender": [
+        "нездар"
+      ],
+      "number": [
+        "нездар"
+      ]
+    }
+  },
+  "навчання": {
+    "simple": "освіта",
+    "confidence": 0.042,
+    "semantic_similarity": 0.873,
+    "quality_score": 0.037,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "освіта"
+      ],
+      "case": [
+        "освіта"
+      ],
+      "gender": [
+        "освіта"
+      ],
+      "number": [
+        "освіта"
+      ]
+    }
+  },
+  "пропозиція": {
+    "simple": "проект",
+    "confidence": 0.094,
+    "semantic_similarity": 0.695,
+    "quality_score": 0.065,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "проект"
+      ],
+      "case": [
+        "проект"
+      ],
+      "gender": [
+        "проект"
+      ],
+      "number": [
+        "проект"
+      ]
+    }
+  },
+  "доллар": {
+    "simple": "долар",
+    "confidence": 1.0,
+    "semantic_similarity": 0.983,
+    "quality_score": 0.983,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "долар"
+      ],
+      "case": [
+        "долар"
+      ],
+      "gender": [
+        "долар"
+      ],
+      "number": [
+        "долар"
+      ]
+    }
+  },
+  "залишитися": {
+    "simple": "залишити",
+    "confidence": 0.058,
+    "semantic_similarity": 0.741,
+    "quality_score": 0.043,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "залишити"
+      ],
+      "verbform": [
+        "залишити"
+      ]
+    }
+  },
+  "розмовляти": {
+    "simple": "говорити",
+    "confidence": 0.13,
+    "semantic_similarity": 0.985,
+    "quality_score": 0.128,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "говорити"
+      ],
+      "verbform": [
+        "говорити"
+      ]
+    }
+  },
+  "стверджувати": {
+    "simple": "сказати",
+    "confidence": 0.176,
+    "semantic_similarity": 0.887,
+    "quality_score": 0.156,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "сказати"
+      ],
+      "verbform": [
+        "сказати"
+      ]
+    }
+  },
+  "відправитися": {
+    "simple": "вирушити",
+    "confidence": 0.429,
+    "semantic_similarity": 0.879,
+    "quality_score": 0.377,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "вирушити"
+      ],
+      "verbform": [
+        "вирушити"
+      ]
+    }
+  },
+  "отримати": {
+    "simple": "сказати",
+    "confidence": 0.012,
+    "semantic_similarity": 0.813,
+    "quality_score": 0.01,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "сказати"
+      ],
+      "verbform": [
+        "сказати"
+      ]
+    }
+  },
+  "представник": {
+    "simple": "член",
+    "confidence": 0.06,
+    "semantic_similarity": 0.701,
+    "quality_score": 0.042,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "член"
+      ],
+      "case": [
+        "член"
+      ],
+      "gender": [
+        "член"
+      ],
+      "number": [
+        "член"
+      ]
+    }
+  },
+  "вирішувати": {
+    "simple": "вирішити",
+    "confidence": 0.094,
+    "semantic_similarity": 0.969,
+    "quality_score": 0.091,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "вирішити"
+      ],
+      "verbform": [
+        "вирішити"
+      ]
+    }
+  },
+  "міркування": {
+    "simple": "аспект",
+    "confidence": 0.25,
+    "semantic_similarity": 0.753,
+    "quality_score": 0.188,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "аспект"
+      ],
+      "case": [
+        "аспект"
+      ],
+      "gender": [
+        "аспект"
+      ],
+      "number": [
+        "аспект"
+      ]
+    }
+  },
+  "постраждати": {
+    "simple": "вплинути",
+    "confidence": 0.25,
+    "semantic_similarity": 0.7,
+    "quality_score": 0.175,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "вплинути"
+      ],
+      "verbform": [
+        "вплинути"
+      ]
+    }
+  },
+  "поділятися": {
+    "simple": "ділитися",
+    "confidence": 1.0,
+    "semantic_similarity": 0.99,
+    "quality_score": 0.99,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "ділитися"
+      ],
+      "verbform": [
+        "ділитися"
+      ]
+    }
+  },
+  "компетентний": {
+    "simple": "відповідний",
+    "confidence": 0.5,
+    "semantic_similarity": 0.873,
+    "quality_score": 0.436,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "відповідний"
+      ],
+      "degree": [
+        "відповідний"
+      ],
+      "gender": [
+        "відповідний"
+      ],
+      "number": [
+        "відповідний"
+      ]
+    }
+  },
+  "простий": {
+    "simple": "новий",
+    "confidence": 0.036,
+    "semantic_similarity": 0.695,
+    "quality_score": 0.025,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "новий"
+      ],
+      "degree": [
+        "новий"
+      ],
+      "gender": [
+        "новий"
+      ],
+      "number": [
+        "новий"
+      ]
+    }
+  },
+  "хвилюватися": {
+    "simple": "боятися",
+    "confidence": 0.12,
+    "semantic_similarity": 0.762,
+    "quality_score": 0.091,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "боятися"
+      ],
+      "verbform": [
+        "боятися"
+      ]
+    }
+  },
+  "справитися": {
+    "simple": "впоратися",
+    "confidence": 1.0,
+    "semantic_similarity": 0.955,
+    "quality_score": 0.955,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "впоратися"
+      ],
+      "verbform": [
+        "впоратися"
+      ]
+    }
+  },
+  "слово": {
+    "simple": "урок",
+    "confidence": 0.004,
+    "semantic_similarity": 0.668,
+    "quality_score": 0.003,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "урок"
+      ],
+      "case": [
+        "урок"
+      ],
+      "gender": [
+        "урок"
+      ],
+      "number": [
+        "урок"
+      ]
+    }
+  },
+  "основне": {
+    "simple": "чин",
+    "confidence": 0.158,
+    "semantic_similarity": 0.815,
+    "quality_score": 0.129,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "чин"
+      ],
+      "case": [
+        "чин"
+      ],
+      "gender": [
+        "чин"
+      ],
+      "number": [
+        "чин"
+      ]
+    }
+  },
+  "відповідність": {
+    "simple": "дотримання",
+    "confidence": 0.143,
+    "semantic_similarity": 0.784,
+    "quality_score": 0.112,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "дотримання"
+      ],
+      "case": [
+        "дотримання"
+      ],
+      "gender": [
+        "дотримання"
+      ],
+      "number": [
+        "дотримання"
+      ]
+    }
+  },
+  "тривалий": {
+    "simple": "довгий",
+    "confidence": 0.13,
+    "semantic_similarity": 0.761,
+    "quality_score": 0.099,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "довгий"
+      ],
+      "degree": [
+        "довгий"
+      ],
+      "gender": [
+        "довгий"
+      ],
+      "number": [
+        "довгий"
+      ]
+    }
+  },
+  "дозволити": {
+    "simple": "могти",
+    "confidence": 0.023,
+    "semantic_similarity": 0.775,
+    "quality_score": 0.018,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "могти"
+      ],
+      "verbform": [
+        "могти"
+      ]
+    }
+  },
+  "право": {
+    "simple": "член",
+    "confidence": 0.034,
+    "semantic_similarity": 0.689,
+    "quality_score": 0.023,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "член"
+      ],
+      "case": [
+        "член"
+      ],
+      "gender": [
+        "член"
+      ],
+      "number": [
+        "член"
+      ]
+    }
+  },
+  "лічильник": {
+    "simple": "метр",
+    "confidence": 1.0,
+    "semantic_similarity": 0.671,
+    "quality_score": 0.671,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "метр"
+      ],
+      "case": [
+        "метр"
+      ],
+      "gender": [
+        "метр"
+      ],
+      "number": [
+        "метр"
+      ]
+    }
+  },
+  "немовлят": {
+    "simple": "дитина",
+    "confidence": 0.5,
+    "semantic_similarity": 0.862,
+    "quality_score": 0.431,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "дитина"
+      ],
+      "case": [
+        "дитина"
+      ],
+      "gender": [
+        "дитина"
+      ],
+      "number": [
+        "дитина"
+      ]
+    }
+  },
+  "різноманітний": {
+    "simple": "різний",
+    "confidence": 0.375,
+    "semantic_similarity": 0.936,
+    "quality_score": 0.351,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "різний"
+      ],
+      "gender": [
+        "різний"
+      ],
+      "number": [
+        "різний"
+      ]
+    }
+  },
+  "сертифікація": {
+    "simple": "сертифікат",
+    "confidence": 0.214,
+    "semantic_similarity": 0.849,
+    "quality_score": 0.182,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "сертифікат"
+      ],
+      "case": [
+        "сертифікат"
+      ],
+      "gender": [
+        "сертифікат"
+      ],
+      "number": [
+        "сертифікат"
+      ]
+    }
+  },
+  "законодавство": {
+    "simple": "закон",
+    "confidence": 0.053,
+    "semantic_similarity": 0.887,
+    "quality_score": 0.047,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "закон"
+      ],
+      "case": [
+        "закон"
+      ],
+      "gender": [
+        "закон"
+      ],
+      "number": [
+        "закон"
+      ]
+    }
+  },
+  "надати": {
+    "simple": "здати",
+    "confidence": 0.042,
+    "semantic_similarity": 0.968,
+    "quality_score": 0.041,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "здати"
+      ],
+      "verbform": [
+        "здати"
+      ]
+    }
+  },
+  "успадкувати": {
+    "simple": "здати",
+    "confidence": 0.5,
+    "semantic_similarity": 0.716,
+    "quality_score": 0.358,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "здати"
+      ],
+      "verbform": [
+        "здати"
+      ]
+    }
+  },
+  "група": {
+    "simple": "гурт",
+    "confidence": 0.034,
+    "semantic_similarity": 0.853,
+    "quality_score": 0.029,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "гурт"
+      ],
+      "case": [
+        "гурт"
+      ],
+      "gender": [
+        "гурт"
+      ],
+      "number": [
+        "гурт"
+      ]
+    }
+  },
+  "приснитися": {
+    "simple": "наснитися",
+    "confidence": 1.0,
+    "semantic_similarity": 0.835,
+    "quality_score": 0.835,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "наснитися"
+      ],
+      "verbform": [
+        "наснитися"
+      ]
+    }
+  },
+  "аккаунт": {
+    "simple": "акаунт",
+    "confidence": 1.0,
+    "semantic_similarity": 0.974,
+    "quality_score": 0.974,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "акаунт"
+      ],
+      "case": [
+        "акаунт"
+      ],
+      "gender": [
+        "акаунт"
+      ],
+      "number": [
+        "акаунт"
+      ]
+    }
+  },
+  "мережа": {
+    "simple": "мереж",
+    "confidence": 0.125,
+    "semantic_similarity": 0.995,
+    "quality_score": 0.124,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "мереж"
+      ],
+      "case": [
+        "мереж"
+      ],
+      "gender": [
+        "мереж"
+      ],
+      "number": [
+        "мереж"
+      ]
+    }
+  },
+  "відвезати": {
+    "simple": "відвезти",
+    "confidence": 0.6,
+    "semantic_similarity": 0.996,
+    "quality_score": 0.598,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "відвезти"
+      ],
+      "verbform": [
+        "відвезти"
+      ]
+    }
+  },
+  "замінити": {
+    "simple": "змінити",
+    "confidence": 0.2,
+    "semantic_similarity": 0.792,
+    "quality_score": 0.158,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "змінити"
+      ],
+      "verbform": [
+        "змінити"
+      ]
+    }
+  },
+  "юридичний": {
+    "simple": "правовий",
+    "confidence": 0.231,
+    "semantic_similarity": 0.981,
+    "quality_score": 0.227,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "правовий"
+      ],
+      "gender": [
+        "правовий"
+      ],
+      "number": [
+        "правовий"
+      ]
+    }
+  },
+  "дослідження": {
+    "simple": "вивчення",
+    "confidence": 0.051,
+    "semantic_similarity": 0.872,
+    "quality_score": 0.044,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "вивчення"
+      ],
+      "case": [
+        "вивчення"
+      ],
+      "gender": [
+        "вивчення"
+      ],
+      "number": [
+        "вивчення"
+      ]
+    }
+  },
+  "продемонструвати": {
+    "simple": "показати",
+    "confidence": 0.273,
+    "semantic_similarity": 0.975,
+    "quality_score": 0.266,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "показати"
+      ],
+      "verbform": [
+        "показати"
+      ]
+    }
+  },
+  "розглядатися": {
+    "simple": "розглядати",
+    "confidence": 0.13,
+    "semantic_similarity": 0.995,
+    "quality_score": 0.129,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "розглядати"
+      ],
+      "verbform": [
+        "розглядати"
+      ]
+    }
+  },
+  "отримання": {
+    "simple": "запит",
+    "confidence": 0.033,
+    "semantic_similarity": 0.735,
+    "quality_score": 0.024,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "запит"
+      ],
+      "case": [
+        "запит"
+      ],
+      "gender": [
+        "запит"
+      ],
+      "number": [
+        "запит"
+      ]
+    }
+  },
+  "положення": {
+    "simple": "правило",
+    "confidence": 0.057,
+    "semantic_similarity": 0.766,
+    "quality_score": 0.044,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "правило"
+      ],
+      "case": [
+        "правило"
+      ],
+      "gender": [
+        "правило"
+      ],
+      "number": [
+        "правило"
+      ]
+    }
+  },
+  "домогосподарство": {
+    "simple": "людина",
+    "confidence": 0.231,
+    "semantic_similarity": 0.653,
+    "quality_score": 0.151,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "людина"
+      ],
+      "case": [
+        "людина"
+      ],
+      "gender": [
+        "людина"
+      ],
+      "number": [
+        "людина"
+      ]
+    }
+  },
+  "приходити": {
+    "simple": "прийти",
+    "confidence": 0.15,
+    "semantic_similarity": 0.927,
+    "quality_score": 0.139,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "прийти"
+      ],
+      "verbform": [
+        "прийти"
+      ]
+    }
+  },
+  "розробити": {
+    "simple": "створити",
+    "confidence": 0.107,
+    "semantic_similarity": 0.917,
+    "quality_score": 0.098,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "створити"
+      ],
+      "verbform": [
+        "створити"
+      ]
+    }
+  },
+  "мешканка": {
+    "simple": "житель",
+    "confidence": 0.375,
+    "semantic_similarity": 0.934,
+    "quality_score": 0.35,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "житель"
+      ],
+      "case": [
+        "житель"
+      ],
+      "gender": [
+        "житель"
+      ],
+      "number": [
+        "житель"
+      ]
+    }
+  },
+  "піти": {
+    "simple": "йти",
+    "confidence": 0.039,
+    "semantic_similarity": 0.966,
+    "quality_score": 0.038,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "йти"
+      ],
+      "verbform": [
+        "йти"
+      ]
+    }
+  },
+  "виготовлений": {
+    "simple": "зроблений",
+    "confidence": 0.25,
+    "semantic_similarity": 0.97,
+    "quality_score": 0.242,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "зроблений"
+      ],
+      "case": [
+        "зроблений"
+      ],
+      "gender": [
+        "зроблений"
+      ],
+      "number": [
+        "зроблений"
+      ],
+      "verbform": [
+        "зроблений"
+      ],
+      "voice": [
+        "зроблений"
+      ]
+    }
+  },
+  "думати": {
+    "simple": "могти",
+    "confidence": 0.021,
+    "semantic_similarity": 0.919,
+    "quality_score": 0.019,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "могти"
+      ],
+      "verbform": [
+        "могти"
+      ]
+    }
+  },
+  "фторид": {
+    "simple": "фтор",
+    "confidence": 0.6,
+    "semantic_similarity": 0.897,
+    "quality_score": 0.538,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "фтор"
+      ],
+      "case": [
+        "фтор"
+      ],
+      "gender": [
+        "фтор"
+      ],
+      "number": [
+        "фтор"
+      ]
+    }
+  },
+  "розуміння": {
+    "simple": "випадок",
+    "confidence": 0.01,
+    "semantic_similarity": 0.668,
+    "quality_score": 0.007,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "випадок"
+      ],
+      "case": [
+        "випадок"
+      ],
+      "gender": [
+        "випадок"
+      ],
+      "number": [
+        "випадок"
+      ]
+    }
+  },
+  "необхідний": {
+    "simple": "єдиний",
+    "confidence": 0.043,
+    "semantic_similarity": 0.666,
+    "quality_score": 0.029,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "єдиний"
+      ],
+      "gender": [
+        "єдиний"
+      ],
+      "number": [
+        "єдиний"
+      ]
+    }
+  },
+  "компанія": {
+    "simple": "фірма",
+    "confidence": 0.027,
+    "semantic_similarity": 0.975,
+    "quality_score": 0.026,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "фірма"
+      ],
+      "case": [
+        "фірма"
+      ],
+      "gender": [
+        "фірма"
+      ],
+      "number": [
+        "фірма"
+      ]
+    }
+  },
+  "підмножина": {
+    "simple": "частина",
+    "confidence": 0.75,
+    "semantic_similarity": 0.796,
+    "quality_score": 0.597,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "частина"
+      ],
+      "case": [
+        "частина"
+      ],
+      "gender": [
+        "частина"
+      ],
+      "number": [
+        "частина"
+      ]
+    }
+  },
+  "наслідок": {
+    "simple": "набір",
+    "confidence": 0.046,
+    "semantic_similarity": 0.751,
+    "quality_score": 0.035,
+    "count": 3,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "набір"
+      ],
+      "case": [
+        "набір"
+      ],
+      "gender": [
+        "набір"
+      ],
+      "number": [
+        "набір"
+      ]
+    }
+  },
+  "коляска": {
+    "simple": "візок",
+    "confidence": 1.0,
+    "semantic_similarity": 0.811,
+    "quality_score": 0.811,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "візок"
+      ],
+      "case": [
+        "візок"
+      ],
+      "gender": [
+        "візок"
+      ],
+      "number": [
+        "візок"
+      ]
+    }
+  },
+  "десятиліття": {
+    "simple": "рік",
+    "confidence": 0.222,
+    "semantic_similarity": 0.719,
+    "quality_score": 0.16,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "рік"
+      ],
+      "case": [
+        "рік"
+      ],
+      "gender": [
+        "рік"
+      ],
+      "number": [
+        "рік"
+      ]
+    }
+  },
+  "перемогти": {
+    "simple": "виграти",
+    "confidence": 0.111,
+    "semantic_similarity": 0.914,
+    "quality_score": 0.101,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "виграти"
+      ],
+      "verbform": [
+        "виграти"
+      ]
+    }
+  },
+  "подивитися": {
+    "simple": "дивитися",
+    "confidence": 0.044,
+    "semantic_similarity": 0.941,
+    "quality_score": 0.041,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "дивитися"
+      ],
+      "verbform": [
+        "дивитися"
+      ]
+    }
+  },
+  "діяльність": {
+    "simple": "положення",
+    "confidence": 0.034,
+    "semantic_similarity": 0.676,
+    "quality_score": 0.023,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "положення"
+      ],
+      "case": [
+        "положення"
+      ],
+      "gender": [
+        "положення"
+      ],
+      "number": [
+        "положення"
+      ]
+    }
+  },
+  "установа": {
+    "simple": "участь",
+    "confidence": 0.043,
+    "semantic_similarity": 0.689,
+    "quality_score": 0.03,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "участь"
+      ],
+      "case": [
+        "участь"
+      ],
+      "gender": [
+        "участь"
+      ],
+      "number": [
+        "участь"
+      ]
+    }
+  },
+  "удосконати": {
+    "simple": "вдавати",
+    "confidence": 0.029,
+    "semantic_similarity": 0.843,
+    "quality_score": 0.024,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "вдавати"
+      ],
+      "verbform": [
+        "вдавати"
+      ]
+    }
+  },
+  "нормальний": {
+    "simple": "звичайний",
+    "confidence": 0.222,
+    "semantic_similarity": 0.803,
+    "quality_score": 0.178,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "звичайний"
+      ],
+      "degree": [
+        "звичайний"
+      ],
+      "gender": [
+        "звичайний"
+      ],
+      "number": [
+        "звичайний"
+      ]
+    }
+  },
+  "боротися": {
+    "simple": "воювати",
+    "confidence": 0.167,
+    "semantic_similarity": 0.936,
+    "quality_score": 0.156,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "воювати"
+      ],
+      "verbform": [
+        "воювати"
+      ]
+    }
+  },
+  "заснувати": {
+    "simple": "створити",
+    "confidence": 0.167,
+    "semantic_similarity": 0.928,
+    "quality_score": 0.155,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "створити"
+      ],
+      "verbform": [
+        "створити"
+      ]
+    }
+  },
+  "називатися": {
+    "simple": "називати",
+    "confidence": 0.083,
+    "semantic_similarity": 0.993,
+    "quality_score": 0.082,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "називати"
+      ],
+      "verbform": [
+        "називати"
+      ]
+    }
+  },
+  "пояснювати": {
+    "simple": "сказати",
+    "confidence": 0.25,
+    "semantic_similarity": 0.816,
+    "quality_score": 0.204,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "сказати"
+      ],
+      "verbform": [
+        "сказати"
+      ]
+    }
+  },
+  "застосовний": {
+    "simple": "чинний",
+    "confidence": 0.667,
+    "semantic_similarity": 0.883,
+    "quality_score": 0.589,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "чинний"
+      ],
+      "gender": [
+        "чинний"
+      ],
+      "number": [
+        "чинний"
+      ]
+    }
+  },
+  "повинний": {
+    "simple": "перший",
+    "confidence": 0.014,
+    "semantic_similarity": 0.655,
+    "quality_score": 0.009,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "перший"
+      ],
+      "degree": [
+        "перший"
+      ],
+      "gender": [
+        "перший"
+      ],
+      "numtype": [
+        "перший"
+      ],
+      "number": [
+        "перший"
+      ]
+    }
+  },
+  "військо": {
+    "simple": "солдат",
+    "confidence": 0.08,
+    "semantic_similarity": 0.949,
+    "quality_score": 0.076,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "солдат"
+      ],
+      "case": [
+        "солдат"
+      ],
+      "gender": [
+        "солдат"
+      ],
+      "number": [
+        "солдат"
+      ]
+    }
+  },
+  "тканина": {
+    "simple": "шовк",
+    "confidence": 0.143,
+    "semantic_similarity": 0.767,
+    "quality_score": 0.11,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "шовк"
+      ],
+      "case": [
+        "шовк"
+      ],
+      "gender": [
+        "шовк"
+      ],
+      "number": [
+        "шовк"
+      ]
+    }
+  },
+  "волокно": {
+    "simple": "шовк",
+    "confidence": 0.2,
+    "semantic_similarity": 0.684,
+    "quality_score": 0.137,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "шовк"
+      ],
+      "case": [
+        "шовк"
+      ],
+      "gender": [
+        "шовк"
+      ],
+      "number": [
+        "шовк"
+      ]
+    }
+  },
+  "відіграти": {
+    "simple": "зіграти",
+    "confidence": 0.182,
+    "semantic_similarity": 0.861,
+    "quality_score": 0.157,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "зіграти"
+      ],
+      "verbform": [
+        "зіграти"
+      ]
+    }
+  },
+  "охоплювати": {
+    "simple": "включати",
+    "confidence": 0.111,
+    "semantic_similarity": 0.843,
+    "quality_score": 0.094,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "включати"
+      ],
+      "verbform": [
+        "включати"
+      ]
+    }
+  },
+  "граматичний": {
+    "simple": "гидкий",
+    "confidence": 0.011,
+    "semantic_similarity": 0.714,
+    "quality_score": 0.008,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "гидкий"
+      ],
+      "degree": [
+        "гидкий"
+      ],
+      "gender": [
+        "гидкий"
+      ],
+      "number": [
+        "гидкий"
+      ]
+    }
+  },
+  "почуватися": {
+    "simple": "відчувати",
+    "confidence": 0.077,
+    "semantic_similarity": 0.969,
+    "quality_score": 0.075,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "відчувати"
+      ],
+      "verbform": [
+        "відчувати"
+      ]
+    }
+  },
+  "тестування": {
+    "simple": "теста",
+    "confidence": 0.069,
+    "semantic_similarity": 0.97,
+    "quality_score": 0.067,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "теста"
+      ],
+      "case": [
+        "теста"
+      ],
+      "gender": [
+        "теста"
+      ],
+      "number": [
+        "теста"
+      ]
+    }
+  },
+  "покарання": {
+    "simple": "санкція",
+    "confidence": 0.095,
+    "semantic_similarity": 0.854,
+    "quality_score": 0.081,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "санкція"
+      ],
+      "case": [
+        "санкція"
+      ],
+      "gender": [
+        "санкція"
+      ],
+      "number": [
+        "санкція"
+      ]
+    }
+  },
+  "запечатати": {
+    "simple": "закрити",
+    "confidence": 0.667,
+    "semantic_similarity": 0.811,
+    "quality_score": 0.541,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "закрити"
+      ],
+      "verbform": [
+        "закрити"
+      ]
+    }
+  },
+  "згода": {
+    "simple": "згід",
+    "confidence": 0.167,
+    "semantic_similarity": 0.889,
+    "quality_score": 0.148,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "nomn": [
+        "згід"
+      ]
+    }
+  },
+  "інформація": {
+    "simple": "індикатор",
+    "confidence": 0.022,
+    "semantic_similarity": 0.666,
+    "quality_score": 0.015,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "індикатор"
+      ],
+      "case": [
+        "індикатор"
+      ],
+      "gender": [
+        "індикатор"
+      ],
+      "number": [
+        "індикатор"
+      ]
+    }
+  },
+  "можливість": {
+    "simple": "спосіб",
+    "confidence": 0.011,
+    "semantic_similarity": 0.676,
+    "quality_score": 0.007,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "спосіб"
+      ],
+      "case": [
+        "спосіб"
+      ],
+      "gender": [
+        "спосіб"
+      ],
+      "number": [
+        "спосіб"
+      ]
+    }
+  },
+  "реалізація": {
+    "simple": "мета",
+    "confidence": 0.056,
+    "semantic_similarity": 0.692,
+    "quality_score": 0.039,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "мета"
+      ],
+      "case": [
+        "мета"
+      ],
+      "gender": [
+        "мета"
+      ],
+      "number": [
+        "мета"
+      ]
+    }
+  },
+  "особа": {
+    "simple": "мета",
+    "confidence": 0.021,
+    "semantic_similarity": 0.67,
+    "quality_score": 0.014,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "мета"
+      ],
+      "case": [
+        "мета"
+      ],
+      "gender": [
+        "мета"
+      ],
+      "number": [
+        "мета"
+      ]
+    }
+  },
+  "випустити": {
+    "simple": "вийти",
+    "confidence": 0.133,
+    "semantic_similarity": 0.818,
+    "quality_score": 0.109,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "вийти"
+      ],
+      "verbform": [
+        "вийти"
+      ]
+    }
+  },
+  "правильний": {
+    "simple": "потрібний",
+    "confidence": 0.154,
+    "semantic_similarity": 0.72,
+    "quality_score": 0.111,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "потрібний"
+      ],
+      "degree": [
+        "потрібний"
+      ],
+      "gender": [
+        "потрібний"
+      ],
+      "number": [
+        "потрібний"
+      ]
+    }
+  },
+  "міністерство": {
+    "simple": "департамент",
+    "confidence": 0.167,
+    "semantic_similarity": 0.833,
+    "quality_score": 0.139,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "департамент"
+      ],
+      "case": [
+        "департамент"
+      ],
+      "gender": [
+        "департамент"
+      ],
+      "number": [
+        "департамент"
+      ]
+    }
+  },
+  "рекомендувати": {
+    "simple": "радити",
+    "confidence": 0.667,
+    "semantic_similarity": 0.684,
+    "quality_score": 0.456,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "радити"
+      ],
+      "verbform": [
+        "радити"
+      ]
+    }
+  },
+  "переконатися": {
+    "simple": "переконати",
+    "confidence": 0.105,
+    "semantic_similarity": 0.98,
+    "quality_score": 0.103,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "переконати"
+      ],
+      "verbform": [
+        "переконати"
+      ]
+    }
+  },
+  "округ": {
+    "simple": "штат",
+    "confidence": 0.054,
+    "semantic_similarity": 0.654,
+    "quality_score": 0.035,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "штат"
+      ],
+      "case": [
+        "штат"
+      ],
+      "gender": [
+        "штат"
+      ],
+      "number": [
+        "штат"
+      ]
+    }
+  },
+  "визначати": {
+    "simple": "означати",
+    "confidence": 0.05,
+    "semantic_similarity": 0.938,
+    "quality_score": 0.047,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "означати"
+      ],
+      "verbform": [
+        "означати"
+      ]
+    }
+  },
+  "вдатися": {
+    "simple": "вміти",
+    "confidence": 0.042,
+    "semantic_similarity": 0.661,
+    "quality_score": 0.028,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "вміти"
+      ],
+      "verbform": [
+        "вміти"
+      ]
+    }
+  },
+  "здобути": {
+    "simple": "вміти",
+    "confidence": 0.154,
+    "semantic_similarity": 0.777,
+    "quality_score": 0.12,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "вміти"
+      ],
+      "verbform": [
+        "вміти"
+      ]
+    }
+  },
+  "залучення": {
+    "simple": "участь",
+    "confidence": 0.083,
+    "semantic_similarity": 0.891,
+    "quality_score": 0.074,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "участь"
+      ],
+      "case": [
+        "участь"
+      ],
+      "gender": [
+        "участь"
+      ],
+      "number": [
+        "участь"
+      ]
+    }
+  },
+  "трансляція": {
+    "simple": "передача",
+    "confidence": 0.25,
+    "semantic_similarity": 0.686,
+    "quality_score": 0.172,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "передача"
+      ],
+      "case": [
+        "передача"
+      ],
+      "gender": [
+        "передача"
+      ],
+      "number": [
+        "передача"
+      ]
+    }
+  },
+  "повідомити": {
+    "simple": "сказати",
+    "confidence": 0.043,
+    "semantic_similarity": 0.845,
+    "quality_score": 0.036,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "сказати"
+      ],
+      "verbform": [
+        "сказати"
+      ]
+    }
+  },
+  "вимагати": {
+    "simple": "хотіти",
+    "confidence": 0.025,
+    "semantic_similarity": 0.861,
+    "quality_score": 0.022,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "хотіти"
+      ],
+      "verbform": [
+        "хотіти"
+      ]
+    }
+  },
+  "механізм": {
+    "simple": "машина",
+    "confidence": 0.154,
+    "semantic_similarity": 0.748,
+    "quality_score": 0.115,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "машина"
+      ],
+      "case": [
+        "машина"
+      ],
+      "gender": [
+        "машина"
+      ],
+      "number": [
+        "машина"
+      ]
+    }
+  },
+  "враховувати": {
+    "simple": "звернути",
+    "confidence": 0.039,
+    "semantic_similarity": 0.863,
+    "quality_score": 0.034,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "звернути"
+      ],
+      "verbform": [
+        "звернути"
+      ]
+    }
+  },
+  "забувати": {
+    "simple": "забути",
+    "confidence": 0.25,
+    "semantic_similarity": 0.983,
+    "quality_score": 0.246,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "забути"
+      ],
+      "verbform": [
+        "забути"
+      ]
+    }
+  },
+  "виправити": {
+    "simple": "зводити",
+    "confidence": 0.019,
+    "semantic_similarity": 0.734,
+    "quality_score": 0.014,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "зводити"
+      ],
+      "verbform": [
+        "зводити"
+      ]
+    }
+  },
+  "передумати": {
+    "simple": "змінити",
+    "confidence": 0.5,
+    "semantic_similarity": 0.862,
+    "quality_score": 0.431,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "змінити"
+      ],
+      "verbform": [
+        "змінити"
+      ]
+    }
+  },
+  "оголосити": {
+    "simple": "сказати",
+    "confidence": 0.1,
+    "semantic_similarity": 0.884,
+    "quality_score": 0.088,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "сказати"
+      ],
+      "verbform": [
+        "сказати"
+      ]
+    }
+  },
+  "побудувати": {
+    "simple": "будувати",
+    "confidence": 0.074,
+    "semantic_similarity": 0.991,
+    "quality_score": 0.073,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "будувати"
+      ],
+      "verbform": [
+        "будувати"
+      ]
+    }
+  },
+  "конкретний": {
+    "simple": "особливий",
+    "confidence": 0.065,
+    "semantic_similarity": 0.858,
+    "quality_score": 0.056,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "особливий"
+      ],
+      "gender": [
+        "особливий"
+      ],
+      "number": [
+        "особливий"
+      ]
+    }
+  },
+  "варіант": {
+    "simple": "вихід",
+    "confidence": 0.029,
+    "semantic_similarity": 0.865,
+    "quality_score": 0.025,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "вихід"
+      ],
+      "case": [
+        "вихід"
+      ],
+      "gender": [
+        "вихід"
+      ],
+      "number": [
+        "вихід"
+      ]
+    }
+  },
+  "зателефонувати": {
+    "simple": "подзвонити",
+    "confidence": 0.222,
+    "semantic_similarity": 0.991,
+    "quality_score": 0.22,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "подзвонити"
+      ],
+      "verbform": [
+        "подзвонити"
+      ]
+    }
+  },
+  "інцидент": {
+    "simple": "подія",
+    "confidence": 0.091,
+    "semantic_similarity": 0.863,
+    "quality_score": 0.079,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "подія"
+      ],
+      "case": [
+        "подія"
+      ],
+      "gender": [
+        "подія"
+      ],
+      "number": [
+        "подія"
+      ]
+    }
+  },
+  "дізнаватися": {
+    "simple": "знати",
+    "confidence": 0.095,
+    "semantic_similarity": 0.895,
+    "quality_score": 0.085,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "знати"
+      ],
+      "verbform": [
+        "знати"
+      ]
+    }
+  },
+  "критика": {
+    "simple": "критик",
+    "confidence": 0.667,
+    "semantic_similarity": 0.976,
+    "quality_score": 0.651,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "критик"
+      ],
+      "case": [
+        "критик"
+      ],
+      "gender": [
+        "критик"
+      ],
+      "number": [
+        "критик"
+      ]
+    }
+  },
+  "найефективніший": {
+    "simple": "ефективний",
+    "confidence": 0.667,
+    "semantic_similarity": 0.862,
+    "quality_score": 0.575,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "ефективний"
+      ],
+      "degree": [
+        "ефективний"
+      ],
+      "gender": [
+        "ефективний"
+      ],
+      "number": [
+        "ефективний"
+      ]
+    }
+  },
+  "відправлятися": {
+    "simple": "вирушати",
+    "confidence": 0.4,
+    "semantic_similarity": 0.791,
+    "quality_score": 0.316,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "вирушати"
+      ],
+      "verbform": [
+        "вирушати"
+      ]
+    }
+  },
+  "закордон": {
+    "simple": "кордон",
+    "confidence": 1.0,
+    "semantic_similarity": 0.691,
+    "quality_score": 0.691,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "кордон"
+      ],
+      "case": [
+        "кордон"
+      ],
+      "gender": [
+        "кордон"
+      ],
+      "number": [
+        "кордон"
+      ]
+    }
+  },
+  "рушниця": {
+    "simple": "зброя",
+    "confidence": 0.167,
+    "semantic_similarity": 0.793,
+    "quality_score": 0.132,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "зброя"
+      ],
+      "case": [
+        "зброя"
+      ],
+      "gender": [
+        "зброя"
+      ],
+      "number": [
+        "зброя"
+      ]
+    }
+  },
+  "сприятливий": {
+    "simple": "позитивний",
+    "confidence": 0.667,
+    "semantic_similarity": 0.786,
+    "quality_score": 0.524,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "позитивний"
+      ],
+      "degree": [
+        "позитивний"
+      ],
+      "gender": [
+        "позитивний"
+      ],
+      "number": [
+        "позитивний"
+      ]
+    }
+  },
+  "справжній": {
+    "simple": "реальний",
+    "confidence": 0.154,
+    "semantic_similarity": 0.982,
+    "quality_score": 0.151,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "реальний"
+      ],
+      "degree": [
+        "реальний"
+      ],
+      "gender": [
+        "реальний"
+      ],
+      "number": [
+        "реальний"
+      ]
+    }
+  },
+  "виконання": {
+    "simple": "абак",
+    "confidence": 0.031,
+    "semantic_similarity": 0.714,
+    "quality_score": 0.022,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "абак"
+      ],
+      "case": [
+        "абак"
+      ],
+      "gender": [
+        "абак"
+      ],
+      "number": [
+        "абак"
+      ]
+    }
+  },
+  "кубічний": {
+    "simple": "цілий",
+    "confidence": 1.0,
+    "semantic_similarity": 0.719,
+    "quality_score": 0.719,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "цілий"
+      ],
+      "gender": [
+        "цілий"
+      ],
+      "number": [
+        "цілий"
+      ]
+    }
+  },
+  "графство": {
+    "simple": "округ",
+    "confidence": 0.25,
+    "semantic_similarity": 0.887,
+    "quality_score": 0.222,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "округ"
+      ],
+      "case": [
+        "округ"
+      ],
+      "gender": [
+        "округ"
+      ],
+      "number": [
+        "округ"
+      ]
+    }
+  },
+  "сімейство": {
+    "simple": "родина",
+    "confidence": 0.182,
+    "semantic_similarity": 0.979,
+    "quality_score": 0.178,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "родина"
+      ],
+      "case": [
+        "родина"
+      ],
+      "gender": [
+        "родина"
+      ],
+      "number": [
+        "родина"
+      ]
+    }
+  },
+  "конкурс": {
+    "simple": "заклик",
+    "confidence": 0.125,
+    "semantic_similarity": 0.708,
+    "quality_score": 0.088,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "заклик"
+      ],
+      "case": [
+        "заклик"
+      ],
+      "gender": [
+        "заклик"
+      ],
+      "number": [
+        "заклик"
+      ]
+    }
+  },
+  "людина": {
+    "simple": "життя",
+    "confidence": 0.006,
+    "semantic_similarity": 0.652,
+    "quality_score": 0.004,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "життя"
+      ],
+      "case": [
+        "життя"
+      ],
+      "gender": [
+        "життя"
+      ],
+      "number": [
+        "життя"
+      ]
+    }
+  },
+  "встигнути": {
+    "simple": "могти",
+    "confidence": 0.4,
+    "semantic_similarity": 0.791,
+    "quality_score": 0.316,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "могти"
+      ],
+      "verbform": [
+        "могти"
+      ]
+    }
+  },
+  "зверхзвичайний": {
+    "simple": "надзвичайний",
+    "confidence": 0.667,
+    "semantic_similarity": 0.91,
+    "quality_score": 0.607,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "надзвичайний"
+      ],
+      "gender": [
+        "надзвичайний"
+      ],
+      "number": [
+        "надзвичайний"
+      ]
+    }
+  },
+  "потрясти": {
+    "simple": "відпати",
+    "confidence": 0.333,
+    "semantic_similarity": 0.786,
+    "quality_score": 0.262,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "відпати"
+      ],
+      "verbform": [
+        "відпати"
+      ]
+    }
+  },
+  "обрадувати": {
+    "simple": "відпати",
+    "confidence": 0.333,
+    "semantic_similarity": 0.684,
+    "quality_score": 0.228,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "відпати"
+      ],
+      "verbform": [
+        "відпати"
+      ]
+    }
+  },
+  "відвалитися": {
+    "simple": "відпати",
+    "confidence": 0.333,
+    "semantic_similarity": 0.693,
+    "quality_score": 0.231,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "відпати"
+      ],
+      "verbform": [
+        "відпати"
+      ]
+    }
+  },
+  "могти": {
+    "simple": "мати",
+    "confidence": 0.005,
+    "semantic_similarity": 0.661,
+    "quality_score": 0.003,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "мати"
+      ],
+      "case": [
+        "мати"
+      ],
+      "gender": [
+        "мати"
+      ],
+      "number": [
+        "мати"
+      ]
+    }
+  },
+  "виконуватися": {
+    "simple": "втілюватися",
+    "confidence": 0.118,
+    "semantic_similarity": 0.902,
+    "quality_score": 0.106,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "втілюватися"
+      ],
+      "verbform": [
+        "втілюватися"
+      ]
+    }
+  },
+  "впроваджуватися": {
+    "simple": "втілюватися",
+    "confidence": 0.333,
+    "semantic_similarity": 0.911,
+    "quality_score": 0.303,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "втілюватися"
+      ],
+      "verbform": [
+        "втілюватися"
+      ]
+    }
+  },
+  "проблема": {
+    "simple": "питання",
+    "confidence": 0.014,
+    "semantic_similarity": 0.824,
+    "quality_score": 0.012,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "питання"
+      ],
+      "case": [
+        "питання"
+      ],
+      "gender": [
+        "питання"
+      ],
+      "number": [
+        "питання"
+      ]
+    }
+  },
+  "христофора": {
+    "simple": "христофор",
+    "confidence": 0.333,
+    "semantic_similarity": 0.983,
+    "quality_score": 0.327,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "христофор"
+      ],
+      "case": [
+        "христофор"
+      ],
+      "gender": [
+        "христофор"
+      ],
+      "number": [
+        "христофор"
+      ]
+    }
+  },
+  "зібрання": {
+    "simple": "збір",
+    "confidence": 0.2,
+    "semantic_similarity": 0.855,
+    "quality_score": 0.171,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "збір"
+      ],
+      "case": [
+        "збір"
+      ],
+      "gender": [
+        "збір"
+      ],
+      "number": [
+        "збір"
+      ]
+    }
+  },
+  "вибирати": {
+    "simple": "обирати",
+    "confidence": 0.2,
+    "semantic_similarity": 0.995,
+    "quality_score": 0.199,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "обирати"
+      ],
+      "verbform": [
+        "обирати"
+      ]
+    }
+  },
+  "бездарність": {
+    "simple": "нездар",
+    "confidence": 1.0,
+    "semantic_similarity": 0.819,
+    "quality_score": 0.819,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "нездар"
+      ],
+      "case": [
+        "нездар"
+      ],
+      "gender": [
+        "нездар"
+      ],
+      "number": [
+        "нездар"
+      ]
+    }
+  },
+  "роздільний": {
+    "simple": "дрібний",
+    "confidence": 1.0,
+    "semantic_similarity": 0.782,
+    "quality_score": 0.782,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "дрібний"
+      ],
+      "degree": [
+        "дрібний"
+      ],
+      "gender": [
+        "дрібний"
+      ],
+      "number": [
+        "дрібний"
+      ]
+    }
+  },
+  "територія": {
+    "simple": "простір",
+    "confidence": 0.032,
+    "semantic_similarity": 0.658,
+    "quality_score": 0.021,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "простір"
+      ],
+      "case": [
+        "простір"
+      ],
+      "gender": [
+        "простір"
+      ],
+      "number": [
+        "простір"
+      ]
+    }
+  },
+  "кастрюлька": {
+    "simple": "ложко",
+    "confidence": 0.5,
+    "semantic_similarity": 0.812,
+    "quality_score": 0.406,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "ложко"
+      ],
+      "case": [
+        "ложко"
+      ],
+      "gender": [
+        "ложко"
+      ],
+      "number": [
+        "ложко"
+      ]
+    }
+  },
+  "ложечко": {
+    "simple": "ложко",
+    "confidence": 0.5,
+    "semantic_similarity": 0.885,
+    "quality_score": 0.443,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "ложко"
+      ],
+      "case": [
+        "ложко"
+      ],
+      "gender": [
+        "ложко"
+      ],
+      "number": [
+        "ложко"
+      ]
+    }
+  },
+  "півлимона": {
+    "simple": "ложко",
+    "confidence": 0.5,
+    "semantic_similarity": 0.751,
+    "quality_score": 0.376,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "ложко"
+      ],
+      "case": [
+        "ложко"
+      ],
+      "gender": [
+        "ложко"
+      ],
+      "number": [
+        "ложко"
+      ]
+    }
+  },
+  "виключення": {
+    "simple": "виняток",
+    "confidence": 0.167,
+    "semantic_similarity": 0.918,
+    "quality_score": 0.153,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "виняток"
+      ],
+      "case": [
+        "виняток"
+      ],
+      "gender": [
+        "виняток"
+      ],
+      "number": [
+        "виняток"
+      ]
+    }
+  },
+  "зустріти": {
+    "simple": "знайти",
+    "confidence": 0.1,
+    "semantic_similarity": 0.665,
+    "quality_score": 0.067,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "знайти"
+      ],
+      "verbform": [
+        "знайти"
+      ]
+    }
+  },
+  "запитати": {
+    "simple": "сказати",
+    "confidence": 0.053,
+    "semantic_similarity": 0.682,
+    "quality_score": 0.036,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "сказати"
+      ],
+      "verbform": [
+        "сказати"
+      ]
+    }
+  },
+  "дружина": {
+    "simple": "жінка",
+    "confidence": 0.083,
+    "semantic_similarity": 0.728,
+    "quality_score": 0.06,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "жінка"
+      ],
+      "case": [
+        "жінка"
+      ],
+      "gender": [
+        "жінка"
+      ],
+      "number": [
+        "жінка"
+      ]
+    }
+  },
+  "заперечити": {
+    "simple": "сказати",
+    "confidence": 0.154,
+    "semantic_similarity": 0.701,
+    "quality_score": 0.108,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "сказати"
+      ],
+      "verbform": [
+        "сказати"
+      ]
+    }
+  },
+  "дорога": {
+    "simple": "шлях",
+    "confidence": 0.047,
+    "semantic_similarity": 0.884,
+    "quality_score": 0.042,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "шлях"
+      ],
+      "case": [
+        "шлях"
+      ],
+      "gender": [
+        "шлях"
+      ],
+      "number": [
+        "шлях"
+      ]
+    }
+  },
+  "комунальний": {
+    "simple": "публічний",
+    "confidence": 1.0,
+    "semantic_similarity": 0.884,
+    "quality_score": 0.884,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "публічний"
+      ],
+      "gender": [
+        "публічний"
+      ],
+      "number": [
+        "публічний"
+      ]
+    }
+  },
+  "суспільний": {
+    "simple": "публічний",
+    "confidence": 0.154,
+    "semantic_similarity": 0.856,
+    "quality_score": 0.132,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "публічний"
+      ],
+      "gender": [
+        "публічний"
+      ],
+      "number": [
+        "публічний"
+      ]
+    }
+  },
+  "століття": {
+    "simple": "рік",
+    "confidence": 0.091,
+    "semantic_similarity": 0.76,
+    "quality_score": 0.069,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "рік"
+      ],
+      "case": [
+        "рік"
+      ],
+      "gender": [
+        "рік"
+      ],
+      "number": [
+        "рік"
+      ]
+    }
+  },
+  "місце": {
+    "simple": "сайт",
+    "confidence": 0.011,
+    "semantic_similarity": 0.689,
+    "quality_score": 0.008,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "сайт"
+      ],
+      "case": [
+        "сайт"
+      ],
+      "gender": [
+        "сайт"
+      ],
+      "number": [
+        "сайт"
+      ]
+    }
+  },
+  "пузько": {
+    "simple": "пузик",
+    "confidence": 0.667,
+    "semantic_similarity": 0.783,
+    "quality_score": 0.522,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "пузик"
+      ],
+      "case": [
+        "пузик"
+      ],
+      "gender": [
+        "пузик"
+      ],
+      "number": [
+        "пузик"
+      ]
+    }
+  },
+  "змінитися": {
+    "simple": "змінити",
+    "confidence": 0.118,
+    "semantic_similarity": 0.989,
+    "quality_score": 0.117,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "змінити"
+      ],
+      "verbform": [
+        "змінити"
+      ]
+    }
+  },
+  "дозволяти": {
+    "simple": "помітити",
+    "confidence": 0.061,
+    "semantic_similarity": 0.667,
+    "quality_score": 0.041,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "помітити"
+      ],
+      "verbform": [
+        "помітити"
+      ]
+    }
+  },
+  "пілота": {
+    "simple": "пілот",
+    "confidence": 0.286,
+    "semantic_similarity": 0.98,
+    "quality_score": 0.28,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "пілот"
+      ],
+      "case": [
+        "пілот"
+      ],
+      "gender": [
+        "пілот"
+      ],
+      "number": [
+        "пілот"
+      ]
+    }
+  },
+  "відслідковувати": {
+    "simple": "помітити",
+    "confidence": 0.222,
+    "semantic_similarity": 0.838,
+    "quality_score": 0.186,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "помітити"
+      ],
+      "verbform": [
+        "помітити"
+      ]
+    }
+  },
+  "країна": {
+    "simple": "земля",
+    "confidence": 0.019,
+    "semantic_similarity": 0.669,
+    "quality_score": 0.013,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "земля"
+      ],
+      "case": [
+        "земля"
+      ],
+      "gender": [
+        "земля"
+      ],
+      "number": [
+        "земля"
+      ]
+    }
+  },
+  "розповісти": {
+    "simple": "сказати",
+    "confidence": 0.083,
+    "semantic_similarity": 0.883,
+    "quality_score": 0.073,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "сказати"
+      ],
+      "verbform": [
+        "сказати"
+      ]
+    }
+  },
+  "закликати": {
+    "simple": "просити",
+    "confidence": 0.125,
+    "semantic_similarity": 0.849,
+    "quality_score": 0.106,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "просити"
+      ],
+      "verbform": [
+        "просити"
+      ]
+    }
+  },
+  "івана": {
+    "simple": "іван",
+    "confidence": 0.5,
+    "semantic_similarity": 0.886,
+    "quality_score": 0.443,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "іван"
+      ],
+      "case": [
+        "іван"
+      ],
+      "gender": [
+        "іван"
+      ],
+      "nametype": [
+        "іван"
+      ],
+      "number": [
+        "іван"
+      ]
+    }
+  },
+  "одіссер": {
+    "simple": "книга",
+    "confidence": 0.4,
+    "semantic_similarity": 0.797,
+    "quality_score": 0.319,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "книга"
+      ],
+      "case": [
+        "книга"
+      ],
+      "gender": [
+        "книга"
+      ],
+      "number": [
+        "книга"
+      ]
+    }
+  },
+  "познайомитися": {
+    "simple": "зустрітися",
+    "confidence": 0.25,
+    "semantic_similarity": 0.949,
+    "quality_score": 0.237,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "зустрітися"
+      ],
+      "verbform": [
+        "зустрітися"
+      ]
+    }
+  },
+  "досягнення": {
+    "simple": "виконання",
+    "confidence": 0.048,
+    "semantic_similarity": 0.718,
+    "quality_score": 0.034,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "виконання"
+      ],
+      "case": [
+        "виконання"
+      ],
+      "gender": [
+        "виконання"
+      ],
+      "number": [
+        "виконання"
+      ]
+    }
+  },
+  "управління": {
+    "simple": "виконання",
+    "confidence": 0.047,
+    "semantic_similarity": 0.685,
+    "quality_score": 0.032,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "виконання"
+      ],
+      "case": [
+        "виконання"
+      ],
+      "gender": [
+        "виконання"
+      ],
+      "number": [
+        "виконання"
+      ]
+    }
+  },
+  "просити": {
+    "simple": "хотіти",
+    "confidence": 0.059,
+    "semantic_similarity": 0.833,
+    "quality_score": 0.049,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "хотіти"
+      ],
+      "verbform": [
+        "хотіти"
+      ]
+    }
+  },
+  "ділення": {
+    "simple": "поділ",
+    "confidence": 0.667,
+    "semantic_similarity": 0.906,
+    "quality_score": 0.604,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "поділ"
+      ],
+      "case": [
+        "поділ"
+      ],
+      "gender": [
+        "поділ"
+      ],
+      "number": [
+        "поділ"
+      ]
+    }
+  },
+  "згуртуватися": {
+    "simple": "змогти",
+    "confidence": 0.5,
+    "semantic_similarity": 0.735,
+    "quality_score": 0.367,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "змогти"
+      ],
+      "verbform": [
+        "змогти"
+      ]
+    }
+  },
+  "посилення": {
+    "simple": "умова",
+    "confidence": 0.125,
+    "semantic_similarity": 0.684,
+    "quality_score": 0.086,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "умова"
+      ],
+      "case": [
+        "умова"
+      ],
+      "gender": [
+        "умова"
+      ],
+      "number": [
+        "умова"
+      ]
+    }
+  },
+  "послуга": {
+    "simple": "служба",
+    "confidence": 0.118,
+    "semantic_similarity": 0.891,
+    "quality_score": 0.105,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "служба"
+      ],
+      "case": [
+        "служба"
+      ],
+      "gender": [
+        "служба"
+      ],
+      "number": [
+        "служба"
+      ]
+    }
+  },
+  "розташований": {
+    "simple": "відомий",
+    "confidence": 0.067,
+    "semantic_similarity": 0.815,
+    "quality_score": 0.055,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "відомий"
+      ],
+      "degree": [
+        "відомий"
+      ],
+      "gender": [
+        "відомий"
+      ],
+      "number": [
+        "відомий"
+      ]
+    }
+  },
+  "галузь": {
+    "simple": "сфера",
+    "confidence": 0.034,
+    "semantic_similarity": 0.705,
+    "quality_score": 0.024,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "сфера"
+      ],
+      "case": [
+        "сфера"
+      ],
+      "gender": [
+        "сфера"
+      ],
+      "number": [
+        "сфера"
+      ]
+    }
+  },
+  "розмножуватися": {
+    "simple": "відбуватися",
+    "confidence": 0.5,
+    "semantic_similarity": 0.712,
+    "quality_score": 0.356,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "відбуватися"
+      ],
+      "verbform": [
+        "відбуватися"
+      ]
+    }
+  },
+  "знадобитися": {
+    "simple": "вимагати",
+    "confidence": 0.061,
+    "semantic_similarity": 0.87,
+    "quality_score": 0.053,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "вимагати"
+      ],
+      "verbform": [
+        "вимагати"
+      ]
+    }
+  },
+  "робота": {
+    "simple": "праця",
+    "confidence": 0.011,
+    "semantic_similarity": 0.976,
+    "quality_score": 0.011,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "праця"
+      ],
+      "case": [
+        "праця"
+      ],
+      "gender": [
+        "праця"
+      ],
+      "number": [
+        "праця"
+      ]
+    }
+  },
+  "фізікелло": {
+    "simple": "фізікелл",
+    "confidence": 0.2,
+    "semantic_similarity": 0.99,
+    "quality_score": 0.198,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "фізікелл"
+      ],
+      "case": [
+        "фізікелл"
+      ],
+      "gender": [
+        "фізікелл"
+      ],
+      "number": [
+        "фізікелл"
+      ]
+    }
+  },
+  "встановити": {
+    "simple": "визначити",
+    "confidence": 0.056,
+    "semantic_similarity": 0.911,
+    "quality_score": 0.051,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "визначити"
+      ],
+      "verbform": [
+        "визначити"
+      ]
+    }
+  },
+  "придбати": {
+    "simple": "купити",
+    "confidence": 0.286,
+    "semantic_similarity": 0.969,
+    "quality_score": 0.277,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "купити"
+      ],
+      "verbform": [
+        "купити"
+      ]
+    }
+  },
+  "яскравий": {
+    "simple": "чудовий",
+    "confidence": 0.222,
+    "semantic_similarity": 0.87,
+    "quality_score": 0.193,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "чудовий"
+      ],
+      "degree": [
+        "чудовий"
+      ],
+      "gender": [
+        "чудовий"
+      ],
+      "number": [
+        "чудовий"
+      ]
+    }
+  },
+  "відношення": {
+    "simple": "привід",
+    "confidence": 0.074,
+    "semantic_similarity": 0.783,
+    "quality_score": 0.058,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "привід"
+      ],
+      "case": [
+        "привід"
+      ],
+      "gender": [
+        "привід"
+      ],
+      "number": [
+        "привід"
+      ]
+    }
+  },
+  "значущий": {
+    "simple": "значний",
+    "confidence": 0.5,
+    "semantic_similarity": 0.986,
+    "quality_score": 0.493,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "значний"
+      ],
+      "degree": [
+        "значний"
+      ],
+      "gender": [
+        "значний"
+      ],
+      "number": [
+        "значний"
+      ]
+    }
+  },
+  "надаватися": {
+    "simple": "надати",
+    "confidence": 0.091,
+    "semantic_similarity": 0.92,
+    "quality_score": 0.084,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "надати"
+      ],
+      "verbform": [
+        "надати"
+      ]
+    }
+  },
+  "область": {
+    "simple": "сфера",
+    "confidence": 0.087,
+    "semantic_similarity": 0.728,
+    "quality_score": 0.063,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "сфера"
+      ],
+      "case": [
+        "сфера"
+      ],
+      "gender": [
+        "сфера"
+      ],
+      "number": [
+        "сфера"
+      ]
+    }
+  },
+  "донька": {
+    "simple": "дочка",
+    "confidence": 0.286,
+    "semantic_similarity": 0.992,
+    "quality_score": 0.284,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "дочка"
+      ],
+      "case": [
+        "дочка"
+      ],
+      "gender": [
+        "дочка"
+      ],
+      "number": [
+        "дочка"
+      ]
+    }
+  },
+  "громадський": {
+    "simple": "державний",
+    "confidence": 0.167,
+    "semantic_similarity": 0.792,
+    "quality_score": 0.132,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "державний"
+      ],
+      "gender": [
+        "державний"
+      ],
+      "number": [
+        "державний"
+      ]
+    }
+  },
+  "сприйматися": {
+    "simple": "сприймати",
+    "confidence": 0.5,
+    "semantic_similarity": 0.988,
+    "quality_score": 0.494,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "сприймати"
+      ],
+      "verbform": [
+        "сприймати"
+      ]
+    }
+  },
+  "мельхіор": {
+    "simple": "літи",
+    "confidence": 0.5,
+    "semantic_similarity": 0.737,
+    "quality_score": 0.368,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "літи"
+      ],
+      "case": [
+        "літи"
+      ],
+      "gender": [
+        "літи"
+      ],
+      "number": [
+        "літи"
+      ]
+    }
+  },
+  "відшкодування": {
+    "simple": "компенсація",
+    "confidence": 0.091,
+    "semantic_similarity": 0.856,
+    "quality_score": 0.078,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "компенсація"
+      ],
+      "case": [
+        "компенсація"
+      ],
+      "gender": [
+        "компенсація"
+      ],
+      "number": [
+        "компенсація"
+      ]
+    }
+  },
+  "основа": {
+    "simple": "член",
+    "confidence": 0.022,
+    "semantic_similarity": 0.66,
+    "quality_score": 0.015,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "член"
+      ],
+      "case": [
+        "член"
+      ],
+      "gender": [
+        "член"
+      ],
+      "number": [
+        "член"
+      ]
+    }
+  },
+  "параграф": {
+    "simple": "пункт",
+    "confidence": 0.111,
+    "semantic_similarity": 0.682,
+    "quality_score": 0.076,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "пункт"
+      ],
+      "case": [
+        "пункт"
+      ],
+      "gender": [
+        "пункт"
+      ],
+      "number": [
+        "пункт"
+      ]
+    }
+  },
+  "виготовити": {
+    "simple": "створити",
+    "confidence": 0.333,
+    "semantic_similarity": 0.894,
+    "quality_score": 0.298,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "створити"
+      ],
+      "verbform": [
+        "створити"
+      ]
+    }
+  },
+  "застосування": {
+    "simple": "стягнення",
+    "confidence": 0.024,
+    "semantic_similarity": 0.787,
+    "quality_score": 0.019,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "стягнення"
+      ],
+      "case": [
+        "стягнення"
+      ],
+      "gender": [
+        "стягнення"
+      ],
+      "number": [
+        "стягнення"
+      ]
+    }
+  },
+  "скоросити": {
+    "simple": "стати",
+    "confidence": 0.2,
+    "semantic_similarity": 0.861,
+    "quality_score": 0.172,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "стати"
+      ],
+      "verbform": [
+        "стати"
+      ]
+    }
+  },
+  "комбінація": {
+    "simple": "поєднання",
+    "confidence": 0.333,
+    "semantic_similarity": 0.886,
+    "quality_score": 0.295,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "поєднання"
+      ],
+      "case": [
+        "поєднання"
+      ],
+      "gender": [
+        "поєднання"
+      ],
+      "number": [
+        "поєднання"
+      ]
+    }
+  },
+  "запобігти": {
+    "simple": "уникнути",
+    "confidence": 0.182,
+    "semantic_similarity": 0.848,
+    "quality_score": 0.154,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "уникнути"
+      ],
+      "verbform": [
+        "уникнути"
+      ]
+    }
+  },
+  "концепція": {
+    "simple": "поняття",
+    "confidence": 0.125,
+    "semantic_similarity": 0.871,
+    "quality_score": 0.109,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "поняття"
+      ],
+      "case": [
+        "поняття"
+      ],
+      "gender": [
+        "поняття"
+      ],
+      "number": [
+        "поняття"
+      ]
+    }
+  },
+  "підтримуватися": {
+    "simple": "підтримувати",
+    "confidence": 0.286,
+    "semantic_similarity": 0.859,
+    "quality_score": 0.246,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "підтримувати"
+      ],
+      "verbform": [
+        "підтримувати"
+      ]
+    }
+  },
+  "сутність": {
+    "simple": "істота",
+    "confidence": 0.667,
+    "semantic_similarity": 0.708,
+    "quality_score": 0.472,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "істота"
+      ],
+      "case": [
+        "істота"
+      ],
+      "gender": [
+        "істота"
+      ],
+      "number": [
+        "істота"
+      ]
+    }
+  },
+  "результат": {
+    "simple": "наслідок",
+    "confidence": 0.019,
+    "semantic_similarity": 0.938,
+    "quality_score": 0.018,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "наслідок"
+      ],
+      "case": [
+        "наслідок"
+      ],
+      "gender": [
+        "наслідок"
+      ],
+      "number": [
+        "наслідок"
+      ]
+    }
+  },
+  "господарювання": {
+    "simple": "підприємство",
+    "confidence": 0.133,
+    "semantic_similarity": 0.907,
+    "quality_score": 0.121,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "підприємство"
+      ],
+      "case": [
+        "підприємство"
+      ],
+      "gender": [
+        "підприємство"
+      ],
+      "number": [
+        "підприємство"
+      ]
+    }
+  },
+  "насильницький": {
+    "simple": "жорстокий",
+    "confidence": 0.5,
+    "semantic_similarity": 0.912,
+    "quality_score": 0.456,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "жорстокий"
+      ],
+      "degree": [
+        "жорстокий"
+      ],
+      "gender": [
+        "жорстокий"
+      ],
+      "number": [
+        "жорстокий"
+      ]
+    }
+  },
+  "культовий": {
+    "simple": "відомий",
+    "confidence": 0.5,
+    "semantic_similarity": 0.741,
+    "quality_score": 0.37,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "відомий"
+      ],
+      "degree": [
+        "відомий"
+      ],
+      "gender": [
+        "відомий"
+      ],
+      "number": [
+        "відомий"
+      ]
+    }
+  },
+  "америка": {
+    "simple": "штат",
+    "confidence": 0.087,
+    "semantic_similarity": 0.676,
+    "quality_score": 0.059,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "штат"
+      ],
+      "case": [
+        "штат"
+      ],
+      "gender": [
+        "штат"
+      ],
+      "number": [
+        "штат"
+      ]
+    }
+  },
+  "фактичний": {
+    "simple": "реальний",
+    "confidence": 0.25,
+    "semantic_similarity": 0.884,
+    "quality_score": 0.221,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "реальний"
+      ],
+      "degree": [
+        "реальний"
+      ],
+      "gender": [
+        "реальний"
+      ],
+      "number": [
+        "реальний"
+      ]
+    }
+  },
+  "приїхати": {
+    "simple": "прийти",
+    "confidence": 0.095,
+    "semantic_similarity": 0.96,
+    "quality_score": 0.091,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "прийти"
+      ],
+      "verbform": [
+        "прийти"
+      ]
+    }
+  },
+  "громадянський": {
+    "simple": "громадський",
+    "confidence": 0.5,
+    "semantic_similarity": 0.768,
+    "quality_score": 0.384,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "case": [
+        "громадський"
+      ],
+      "gender": [
+        "громадський"
+      ],
+      "number": [
+        "громадський"
+      ]
+    }
+  },
+  "загорятися": {
+    "simple": "почнути",
+    "confidence": 0.667,
+    "semantic_similarity": 0.719,
+    "quality_score": 0.48,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "почнути"
+      ],
+      "verbform": [
+        "почнути"
+      ]
+    }
+  },
+  "стріляти": {
+    "simple": "почнути",
+    "confidence": 0.105,
+    "semantic_similarity": 0.655,
+    "quality_score": 0.069,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "почнути"
+      ],
+      "verbform": [
+        "почнути"
+      ]
+    }
+  },
+  "циклон": {
+    "simple": "шторм",
+    "confidence": 0.5,
+    "semantic_similarity": 0.93,
+    "quality_score": 0.465,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "шторм"
+      ],
+      "case": [
+        "шторм"
+      ],
+      "gender": [
+        "шторм"
+      ],
+      "number": [
+        "шторм"
+      ]
+    }
+  },
+  "реакція": {
+    "simple": "ефект",
+    "confidence": 0.1,
+    "semantic_similarity": 0.736,
+    "quality_score": 0.074,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "ефект"
+      ],
+      "case": [
+        "ефект"
+      ],
+      "gender": [
+        "ефект"
+      ],
+      "number": [
+        "ефект"
+      ]
+    }
+  },
+  "реєстрація": {
+    "simple": "запис",
+    "confidence": 0.118,
+    "semantic_similarity": 0.746,
+    "quality_score": 0.088,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "запис"
+      ],
+      "case": [
+        "запис"
+      ],
+      "gender": [
+        "запис"
+      ],
+      "number": [
+        "запис"
+      ]
+    }
+  },
+  "академія": {
+    "simple": "школа",
+    "confidence": 0.25,
+    "semantic_similarity": 0.805,
+    "quality_score": 0.201,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "школа"
+      ],
+      "case": [
+        "школа"
+      ],
+      "gender": [
+        "школа"
+      ],
+      "number": [
+        "школа"
+      ]
+    }
+  },
+  "розроблений": {
+    "simple": "створений",
+    "confidence": 0.133,
+    "semantic_similarity": 0.904,
+    "quality_score": 0.12,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "створений"
+      ],
+      "case": [
+        "створений"
+      ],
+      "gender": [
+        "створений"
+      ],
+      "number": [
+        "створений"
+      ],
+      "verbform": [
+        "створений"
+      ],
+      "voice": [
+        "створений"
+      ]
+    }
+  },
+  "виготовлення": {
+    "simple": "виробництво",
+    "confidence": 0.1,
+    "semantic_similarity": 0.931,
+    "quality_score": 0.093,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "виробництво"
+      ],
+      "case": [
+        "виробництво"
+      ],
+      "gender": [
+        "виробництво"
+      ],
+      "number": [
+        "виробництво"
+      ]
+    }
+  },
+  "вілларда": {
+    "simple": "віллард",
+    "confidence": 0.4,
+    "semantic_similarity": 0.903,
+    "quality_score": 0.361,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "віллард"
+      ],
+      "case": [
+        "віллард"
+      ],
+      "gender": [
+        "віллард"
+      ],
+      "number": [
+        "віллард"
+      ]
+    }
+  },
+  "флеммінга": {
+    "simple": "віллард",
+    "confidence": 0.4,
+    "semantic_similarity": 0.784,
+    "quality_score": 0.314,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "animacy": [
+        "віллард"
+      ],
+      "case": [
+        "віллард"
+      ],
+      "gender": [
+        "віллард"
+      ],
+      "number": [
+        "віллард"
+      ]
+    }
+  },
+  "завдати": {
+    "simple": "знати",
+    "confidence": 0.105,
+    "semantic_similarity": 0.651,
+    "quality_score": 0.068,
+    "count": 2,
+    "source": "spivavtor",
+    "forms": {
+      "aspect": [
+        "знати"
+      ],
+      "verbform": [
+        "знати"
+      ]
+    }
+  }
+}
